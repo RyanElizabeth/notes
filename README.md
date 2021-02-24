@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+# notes
+* sql queries
+* product management notes
